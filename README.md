@@ -97,6 +97,7 @@
 
 ## Travel Planning
 - [Atlas Obscura](http://atlasobscura.com) - Unique travel guide showcasing the world's hidden wonders, offbeat attractions, and curious places.
+- [China Travel Check](https://gochina.taoliapp.com/) - Verified English field manual for independent mainland China travel: payments, eSIM, visas, trains, and apps.
 - [DESTIGOGO](https://destigogo.com) - Budget-friendly destination discovery tool matching travelers with locations fitting their timeframe and finances.
 - [Lonely Planet](http://lonelyplanet.com) - Renowned travel guide publisher offering expert advice, insider tips, and destination inspiration for global explorers.
 - [Nomad List](http://nomadlist.com) - Interactive platform for discovering ideal digital nomad destinations, with data on cost of living, internet quality, and more.
